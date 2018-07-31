@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript Development Environment",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JMDeS/js-dev-env.git"
@@ -14,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/JMDeS/js-dev-env/issues"
   },
-  "homepage": "https://github.com/JMDeS/js-dev-env#readme"
+  "homepage": "https://github.com/JMDeS/js-dev-env#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
